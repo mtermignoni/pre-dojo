@@ -1,2 +1,15 @@
-Coloque aqui suas instruções ou comentários que ache útil/relevantes para possamos ler 
-quando estivermos avaliando a sua solução
+Utilizei o framework PLAY para criar aplicaÃ§Ã£o em JAVA pois o mesmo suporta SCALA, a IDE IntelliJ.
+
+URL da aplicaÃ§Ã£o para teste de PRE-DOJO (AMIL):
+https://github.com/mtermignoni/play-java-pre-dojo
+
+=play-2.2.6=
+Instalar o "play framework".
+
+=activator-dist-1.3.10=
+Instalar o "activator" para exectar a aplicaÃ§Ã£o.
+>activator run
+
+=JUnit=
+>activator test
+>activator test-quick
